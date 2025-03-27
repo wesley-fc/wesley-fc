@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 About Me  
 
-<!--
-**wesley-fc/wesley-fc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm Wesley, a tech and programming enthusiast. Here's a little about me:  
 
-Here are some ideas to get you started:
+- 🎂 **Age:** 21 years old  
+- 🌎 **Languages:** For now, I only speak Portuguese (so deal with this Google Translate English 😆)  
+- 🎓 **Education:** I studied **Computer Science** but dropped out. Currently, I'm studying **Systems Analysis and Development**  
+- 🎮 **Interests:** Cats, food, anime, FPS games (Valorant, CS2, Fragpunk), and roguelikes  
+- 🚀 **Fields of interest:** Artificial Intelligence, Programming Language Theory (PLT), Information Security, and Game Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contact  
+
+- 🎤 **Discord:** `wesley.fc`  
+- 📧 **Email:** `wesfrecos43@gmail.com`  
